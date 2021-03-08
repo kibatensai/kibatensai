@@ -11,6 +11,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=Sass)
 ![Redux Saga](https://img.shields.io/badge/-Redux&#032;Saga-090909?style=for-the-badge&logo=Redux-Saga)
+![Storybook](https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=Storybook)
+
 
 <!--
 **kibatensai/kibatensai** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
