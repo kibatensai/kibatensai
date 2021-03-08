@@ -1,6 +1,7 @@
 # 🐱‍👤 Welcome, My name is **David Pehshvelashvili**
 ## 👨🏻‍💻 I'm a Front-End Developer from Moscow, Russia
 ### 🤍 That's my [telegram](https://t.me/kibatensai), it's the fastest way to reach out
+### 🎯 I'm  always up for new connections and collaborations
 ### 🖤 Technologies I use (I'm always looking forward to expand the field of expertise):
 ![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
