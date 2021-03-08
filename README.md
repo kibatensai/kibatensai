@@ -8,7 +8,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![REST API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge&logo=restapi)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=Sass)
 ![Redux Saga](https://img.shields.io/badge/-Redux&#032;Saga-090909?style=for-the-badge&logo=Redux-Saga)
 
 <!--
