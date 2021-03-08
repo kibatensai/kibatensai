@@ -1,7 +1,11 @@
-### Hi there 👋
+# 🖤 Welcome, My name is **David Pehshvelashvili** ༼ つ ◕_◕ ༽つ
+## 🧡 I'm a Front-End Developer from Moscow, Russia
+### 💛 That's my [telegram](https://t.me/kibatensai), it's the fastest way reach out
+### 💚 Technologies I use (I'm always looking forward to expand the field of expertise):
+
 
 <!--
-**kibatensai/kibatensai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kibatensai/kibatensai** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
