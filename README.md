@@ -14,6 +14,7 @@
 ![Redux Saga](https://img.shields.io/badge/-Redux&#032;Saga-090909?style=for-the-badge&logo=Redux-Saga)
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 ![Storybook](https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=Storybook)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=Node.js)
 
 
