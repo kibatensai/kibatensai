@@ -11,6 +11,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=Sass)
 ![Redux Saga](https://img.shields.io/badge/-Redux&#032;Saga-090909?style=for-the-badge&logo=Redux-Saga)
+![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 ![Storybook](https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=Storybook)
 
 
