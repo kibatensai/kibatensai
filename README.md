@@ -9,7 +9,7 @@
 ![REST API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge&logo=restapi)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=css3)
-![Redux Saga](https://img.shields.io/badge/-ReduxSaga-090909?style=for-the-badge&logo=Redux-Saga)
+![Redux Saga](https://img.shields.io/badge/-Redux&#032;Saga-090909?style=for-the-badge&logo=Redux-Saga)
 
 <!--
 **kibatensai/kibatensai** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
