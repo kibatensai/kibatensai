@@ -21,6 +21,6 @@
 ![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=Node.js)
 
-## You can check my CV on my little :frog: [website](https://kibatensai.github.io/) :frog:
+## :trollface: You can check my CV on my little :frog: [website](https://kibatensai.github.io/) :frog: :trollface:
 
 ### 💌 Mail me: dave.p.business@gmail.com
